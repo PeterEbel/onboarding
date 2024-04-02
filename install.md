@@ -1,4 +1,4 @@
-## Running PySpark in Docker ##
+## How to run Jupyter Notebook and PySpark in Docker ##
 
 
 ### Install Docker ###
@@ -46,9 +46,9 @@ Currently running servers:
 http://cc03a1a1513f:8888/?token=2ea951ec0dc87115a4f40a7b21f1a7b823ce3379a14f94fb
 ```
 
-## Running PySpark in Anaconda ##
+## How to run Jupyter Notebook and PySpark in Anaconda ##
 
-### Install Anaconda o Minoconda ###
+### Install Anaconda or Minoconda ###
 
 Install Anaconda or Miniconda following the instructions for your operating system.
 
